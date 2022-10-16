@@ -68,7 +68,7 @@ Also in the future version I will add a menu where you can change the volume and
 
 ## Additional Info
 
-<p>In this project I also made a folder called 'tower-defense-play' where you can find the actual game so you can download it and play it for yourself, in future I'll put an
+<p>In this project I also made a folder called `tower-defense-play` where you can find the actual game so you can download it and play it for yourself, in future I'll put an
 installer so you can install it in your computer (no viruses, I promise :laughing:) and play it there.</p>
 
 <p><i>Have fun!</i> :blush:</p>
