@@ -2,14 +2,14 @@
 
 ## About
 
-<p>>This is a project I've been working since 2017. At first it was a simple concept of 'tower defense' game based on the ideea of the project from the youtuber Brackeys with simple enemies to defeat and one single path for the entire game. 
+<p>>This is a project I've been working since 2017. At first it was a simple concept of "tower defense" game based on the ideea of the project from the youtuber Brackeys with simple enemies to defeat and one single path for the entire game. 
 After 4 years I managed to make it more complex and to give the player some tips (how to play, controls, boss level announcement, etc.), to make him/her think for strategies to beat the level, 
 unlocking new guns and upgrades, new paths and so many more :relaxed: </p>
 
 <p>>It still has a little bug for exaple when you restart the game and the wave counter is stoped, the scene reloaded is frozen but I'll fix that in the next versions :smile:
 Also in the future version I will add a menu where you can change the volume and graphics settings, currently you have none and some songs might be louder (if not every song :laughing:).</p>
 
-<p><b><i>WARNING</i>: Every single song is from Metallica, making a 'Let's Play' on Youtube with this game and volume on might bring you a copyright claim so beware! </b></p>
+<p><b><i>WARNING</i>: Every single song is from Metallica, making a "Let's Play" on Youtube with this game and volume on might bring you a copyright claim so beware! </b></p>
 
 ## Changelog
 
