@@ -53,7 +53,7 @@ Also in the future version I will add a menu where you can change the volume and
   <li>New improved levels
   <li>Tips, "How to play" section, and warnings when you start a level
   <li>New concept of enemies: when dying you earn less money from the easy ones and more from the though ones but they have more health then their earlier versions
-  <li>Start lives is always 20
+  <li>Starting lives is always 20
   <li>Upgrading the turret costs a lot more but gives the player more power
   <li>New paths at each 5 levels (currently 4)
   <li>Enemies can merge in a single line and make it tougher for the player to shoot them
