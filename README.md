@@ -64,7 +64,7 @@ Also in the future version I will add a menu where you can change the volume and
   <li>Bug fix: Scene Manager not loading
 </ul>
 
-### Version 4.0 (<b><i>coming soon with new futures!</i></b>)
+### Version 4.0 (<b><i>coming soon with new features!</i></b>)
 
 ## Additional Info
 
